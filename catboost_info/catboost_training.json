@@ -1,0 +1,13 @@
+{
+"meta":{"test_sets":[],"test_metrics":[],"learn_metrics":[{"best_value":"Min","name":"MultiClass"},{"best_value":"Max","name":"Accuracy"},{"best_value":"Max","name":"F1:class=0"},{"best_value":"Max","name":"F1:class=1"},{"best_value":"Max","name":"F1:class=2"},{"best_value":"Max","name":"Precision:class=0"},{"best_value":"Max","name":"Precision:class=1"},{"best_value":"Max","name":"Precision:class=2"},{"best_value":"Max","name":"Recall:class=0"},{"best_value":"Max","name":"Recall:class=1"},{"best_value":"Max","name":"Recall:class=2"}],"launch_mode":"Train","parameters":"","iteration_count":9,"learn_sets":["learn"],"name":"experiment"},
+"iterations":[
+{"learn":[0.950528315,0.9428571429,1,0.90625,0.9210526316,1,0.935483871,0.8974358974,1,0.8787878788,0.9459459459],"iteration":0,"passed_time":0.0005729003473,"remaining_time":0.004583202779},
+{"learn":[0.8277919856,0.9428571429,1,0.90625,0.9210526316,1,0.935483871,0.8974358974,1,0.8787878788,0.9459459459],"iteration":1,"passed_time":0.001131936099,"remaining_time":0.003961776345},
+{"learn":[0.7411678022,0.9619047619,1,0.9393939394,0.9459459459,1,0.9393939394,0.9459459459,1,0.9393939394,0.9459459459],"iteration":2,"passed_time":0.001644747592,"remaining_time":0.003289495184},
+{"learn":[0.6587287916,0.9619047619,1,0.9393939394,0.9459459459,1,0.9393939394,0.9459459459,1,0.9393939394,0.9459459459],"iteration":3,"passed_time":0.002076746117,"remaining_time":0.002595932646},
+{"learn":[0.6127788082,0.9523809524,1,0.9253731343,0.9315068493,1,0.9117647059,0.9444444444,1,0.9393939394,0.9189189189],"iteration":4,"passed_time":0.002437180826,"remaining_time":0.001949744661},
+{"learn":[0.5575189951,0.9523809524,1,0.9253731343,0.9315068493,1,0.9117647059,0.9444444444,1,0.9393939394,0.9189189189],"iteration":5,"passed_time":0.002858860607,"remaining_time":0.001429430304},
+{"learn":[0.5026121394,0.9523809524,1,0.9253731343,0.9315068493,1,0.9117647059,0.9444444444,1,0.9393939394,0.9189189189],"iteration":6,"passed_time":0.003248287981,"remaining_time":0.0009280822802},
+{"learn":[0.4613051305,0.9523809524,1,0.9253731343,0.9315068493,1,0.9117647059,0.9444444444,1,0.9393939394,0.9189189189],"iteration":7,"passed_time":0.003668242569,"remaining_time":0.0004585303212},
+{"learn":[0.4267853399,0.9523809524,1,0.9253731343,0.9315068493,1,0.9117647059,0.9444444444,1,0.9393939394,0.9189189189],"iteration":8,"passed_time":0.004016615369,"remaining_time":0}
+]}
